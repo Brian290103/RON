@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636661182776",
+    "project_id": "price-comparison-app-ab539",
+    "storage_bucket": "price-comparison-app-ab539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636661182776:android:5384c6d12de94dcfe391cd",
+        "android_client_info": {
+          "package_name": "com.example.ron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636661182776-ritu2h827rdht9580ms2rh1sjugjm5mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZzM3pNFiX0ER1xB_WUAHy60dH21Cxusg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636661182776-ritu2h827rdht9580ms2rh1sjugjm5mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
